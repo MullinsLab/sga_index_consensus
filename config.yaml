@@ -1,0 +1,49 @@
+Dataset1:
+  Sample1:
+    cDNA_primer: No cDNA primer listed for this sample
+    fwd_index: Index_F21
+    index_type: Index_primer
+    panel: No panel listed for this sample
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+    sec_str_primer: GATTGTGTGGCARGTAGACAGRATG
+  Sample2:
+    cDNA_primer: No cDNA primer listed for this sample
+    fwd_index: Index_F22
+    index_type: Index_primer
+    panel: No panel listed for this sample
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+    sec_str_primer: GATTGTGTGGCARGTAGACAGRATG
+  Sample3:
+    cDNA_primer: No cDNA primer listed for this sample
+    fwd_index: Index_F23
+    index_type: Index_primer
+    panel: No panel listed for this sample
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+    sec_str_primer: GATTGTGTGGCARGTAGACAGRATG
+  Sample4:
+    cDNA_primer: No cDNA primer listed for this sample
+    fwd_index: Index_F24
+    index_type: Index_primer
+    panel: No panel listed for this sample
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+    sec_str_primer: GATTGTGTGGCARGTAGACAGRATG
+  Sample5:
+    cDNA_primer: No cDNA primer listed for this sample
+    fwd_index: Index_F01
+    index_type: Index_primer
+    panel: No panel listed for this sample
+    rev_index: Index_R03
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+    sec_str_primer: GATTGTGTGGCARGTAGACAGRATG
+  Sample6:
+    cDNA_primer: No cDNA primer listed for this sample
+    fwd_index: Index_F02
+    index_type: Index_primer
+    panel: No panel listed for this sample
+    rev_index: Index_R03
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+    sec_str_primer: GATTGTGTGGCARGTAGACAGRATG
