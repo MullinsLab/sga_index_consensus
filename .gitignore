@@ -9,7 +9,5 @@ dag.pdf
 snakemake-report.html*
 .ipynb_checkpoints/
 primers/
-raw-reads/
-porpid/
-postproc/
+dataset/
 202*.yaml
