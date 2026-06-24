@@ -1,0 +1,37 @@
+Dataset1:
+  Sample1:
+    fwd_index: Index_F21
+    fwd_primer: GATTGTGTGGCARGTAGACAGRATG
+    index_type: Index_primer
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+  Sample2:
+    fwd_index: Index_F22
+    fwd_primer: GATTGTGTGGCARGTAGACAGRATG
+    index_type: Index_primer
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+  Sample3:
+    fwd_index: Index_F23
+    fwd_primer: GATTGTGTGGCARGTAGACAGRATG
+    index_type: Index_primer
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+  Sample4:
+    fwd_index: Index_F24
+    fwd_primer: GATTGTGTGGCARGTAGACAGRATG
+    index_type: Index_primer
+    rev_index: Index_R02
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+  Sample5:
+    fwd_index: Index_F01
+    fwd_primer: GATTGTGTGGCARGTAGACAGRATG
+    index_type: Index_primer
+    rev_index: Index_R03
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
+  Sample6:
+    fwd_index: Index_F02
+    fwd_primer: GATTGTGTGGCARGTAGACAGRATG
+    index_type: Index_primer
+    rev_index: Index_R03
+    rev_primer: CAAGGCAAGCTTTATTGAGGCTTAAS
