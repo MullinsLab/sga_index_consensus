@@ -23,21 +23,13 @@ For an ubuntu machine:
 - first update all apps
    - `apt update`
    - `apt upgrade`
-- Snakemake
+- Snakemake and mafft
    - `apt-get install -y snakemake`
+   - `apt-get install -y mafft`
 - python3 packages
   - `apt-get install python3-pandas`
   - `apt-get install python3-seaborn`
   
-For mac:
-- Download Python 3 and install from [https://www.python.org/downloads/macos/]
-  - python3 packages
-    - `pip3 install pandas`
-    - `pip3 install seaborn`
-- Snakemake
-   - `pip3 install snakemake`
-
-
 ### Julia version 1.10.5
 
 We recommend you use the `juliaup` version manager to install julia.
